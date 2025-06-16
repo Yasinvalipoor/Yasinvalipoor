@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="/assets/Creative_Prism_2.jpg" alt="Creative Prism Banner" width="100%" />
+<img src="/assets/Creative Prism.jpg" alt="Creative Prism Banner" width="100%"  />
 
 
 ## 👋 About Me
