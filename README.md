@@ -1,9 +1,5 @@
 <!-- Header Banner -->
-<img src="https://github.com/user-attachments/assets/9510be82-8e18-4882-b0f6-91b482f2a556/9377cc02151d4f5237ce75205d4eafdf" alt="Creative Prism Banner" width="100%" />
-
-![Uploading 9377cc02151d4f5237ce75205d4eafdf.jpg…]()
-![9377cc02151d4f5237ce75205d4eafdf](https://github.com/user-attachments/assets/9510be82-8e18-4882-b0f6-91b482f2a556)
-
+<img src="/assets/Creative Prism.jpg" alt="Creative Prism Banner" width="100%" />
 
 
 ## 👋 About Me
