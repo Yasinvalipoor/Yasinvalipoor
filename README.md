@@ -1,52 +1,60 @@
-<!-- Header Banner -->
-<img src="/assets/Creative_Prism_3.png" alt="Creative Prism Banner" width="100%"  />
+<!-- Banner/Header -->
+<p align="center">
+  <img src="/assets/Creative_Prism_3.png" alt="Creative Prism Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi, I'm Yasin 👋</h1>
+<p align="center"><i>Clarity from complexity—like a prism breaking light into color.</i></p>
 
-## 👋 About Me
+<p align="center">
+  <b>Turning abstract ideas into structured, meaningful systems.<br>
+  From concept to code, I love to give form to complexity—simply, cleanly, and with purpose.</b>
+</p>
 
-I'm someone who finds clarity in complexity. I’m drawn to patterns, systems, and the invisible links that hold everything together. Whether I’m writing code or sketching ideas, I enjoy building things that are both functional and thoughtful.
-
-I enjoy wearing multiple hats—developer, thinker, and system designer. I've worked across both front-end and back-end, and I love diving deep into software architecture, experimenting with approaches like DDD, EDD, and beyond.
-
-I'm also the kind of person who gets excited by raw ideas—I've explored multiple startup concepts, and I’m constantly shaping new ones. Curiosity drives me, whether I'm exploring microcontrollers for an IoT project or merging AI into something tangible.
-
----
-
-## 🛠 What I Care About
-
-- Designing clean, intentional solutions to real-world problems  
-- Staying curious and learning beyond the boundaries of what I already know  
-- Turning abstract ideas into tangible results  
-- Keeping the user in mind—always  
-- Thinking in systems and crafting scalable architectures  
+<p align="center">
+  <em>simple on the outside, meaningful underneath.</em>
+</p>
 
 ---
 
-## 🧰 Skills & Tools
+## 👨‍💻 About Me
 
-- 💻 Programming: C#, .NET, Python, JavaScript, HTML/CSS  
-- 🧱 Frameworks: ASP.NET, modern front-end stacks  
-- 🔁 Backend & API design  
-- 🖌 UI/UX thinking with minimal, human-centered design  
-- 🌐 Web application development (commercial & custom)  
-- ⚙️ Passion for IoT + AI integration (beginner/experimental level)  
-- 🧭 Approaches: DDD, EDD (and open to learning more)
+I'm a **software engineer** with a systems mindset and a creative heart.  
+My journey started with **C#** and has grown into full-stack engineering, with a deep focus on **backend architecture** and **clean, purposeful system design**.
+
+**Current fascinations:**
+- Architecting scalable **web applications**
+- Building commercial systems with **ASP.NET Core** and **Web APIs**
+- Exploring patterns like **DDD** (Domain-Driven Design) and modern architectural styles
+- Designing thoughtful UIs with minimal, human-centered UX
+- Learning modern frontend frameworks (currently exploring **React**)
+- Experimenting with **AI + IoT** to create smart, connected tools
 
 ---
 
-## 💡 On the Side
+## 🛠️ What Drives Me
 
-- Idea-driven: builder of startup concepts (some implemented, others still cooking)  
-- Love exploring how tech and design shape the way we live and think  
-- Always tinkering. Always learning.
+- Delivering thoughtful, intentional solutions to real-world problems
+- Designing systems that scale—technically and conceptually
+- Value-driven development: solving for people, not just "users"
+- Writing clean, maintainable code rooted in solid architecture
+- Lifelong learning through curiosity, experimentation, and reflection
+- Embracing challenges and learning beyond my comfort zone
+
+---
+
+## ⚙️ Tech Stack
+
+- **Languages:** &nbsp; C# (.NET 6+), Python
+- **Frameworks:** &nbsp; ASP.NET Core, React (basics)
+- **Backend:** &nbsp; MVC, Razor Pages, Web API, Clean Architecture, OOP, DDD/EDD
+- **Frontend:** &nbsp; HTML/CSS, JavaScript, React, UI/UX, Web Design
+- **Extras:** &nbsp; IoT (Microcontrollers, MicroPython), AI (integrative concepts)
 
 ---
 
 ## 🤝 Let’s Connect
 
-I'm always up for a good conversation—whether it's about building better tools, shaping ideas, or just sharing thoughts.
+I'm always up for a good conversation—whether it's about building better tools, shaping ideas and startups, making connections, or just a friendly chat.
 
-Reach out and say hi 👇  
-
-[🔗 LinkedIn](#) ・ [🐙 GitHub](#) ・ [📬 Email](#)
-
+<a href="#" target="_blank">🔗 LinkedIn</a> &nbsp;•&nbsp; <a href="https://github.com/Yasinvalipoor" target="_blank">🐙 GitHub</a> &nbsp;•&nbsp; <a href="#" target="_blank">📬 Email</a>
