@@ -6,7 +6,9 @@
 
 I'm someone who finds clarity in complexity. I’m drawn to patterns, systems, and the invisible links that hold everything together. Whether I’m writing code or sketching ideas, I enjoy building things that are both functional and thoughtful.
 
-I believe good work comes from quiet curiosity and continuous refinement—not rushing to the finish line. I like to keep things simple on the outside, and meaningful underneath.
+I enjoy wearing multiple hats—developer, thinker, and system designer. I've worked across both front-end and back-end, and I love diving deep into software architecture, experimenting with approaches like DDD, EDD, and beyond.
+
+I'm also the kind of person who gets excited by raw ideas—I've explored multiple startup concepts, and I’m constantly shaping new ones. Curiosity drives me, whether I'm exploring microcontrollers for an IoT project or merging AI into something tangible.
 
 ---
 
@@ -16,15 +18,27 @@ I believe good work comes from quiet curiosity and continuous refinement—not r
 - Staying curious and learning beyond the boundaries of what I already know  
 - Turning abstract ideas into tangible results  
 - Keeping the user in mind—always  
+- Thinking in systems and crafting scalable architectures  
 
 ---
 
 ## 🧰 Skills & Tools
 
-- JavaScript, HTML/CSS, and modern front-end frameworks  
-- Automating workflows and simplifying complexity  
-- UX thinking with a focus on minimalism and clarity  
-- Still learning. Always learning.
+- 💻 Programming: C#, .NET, Python, JavaScript, HTML/CSS  
+- 🧱 Frameworks: ASP.NET, modern front-end stacks  
+- 🔁 Backend & API design  
+- 🖌 UI/UX thinking with minimal, human-centered design  
+- 🌐 Web application development (commercial & custom)  
+- ⚙️ Passion for IoT + AI integration (beginner/experimental level)  
+- 🧭 Approaches: DDD, EDD (and open to learning more)
+
+---
+
+## 💡 On the Side
+
+- Idea-driven: builder of startup concepts (some implemented, others still cooking)  
+- Love exploring how tech and design shape the way we live and think  
+- Always tinkering. Always learning.
 
 ---
 
@@ -33,5 +47,5 @@ I believe good work comes from quiet curiosity and continuous refinement—not r
 I'm always up for a good conversation—whether it's about building better tools, shaping ideas, or just sharing thoughts.
 
 Reach out and say hi 👇  
-
 [🔗 LinkedIn](#) ・ [🐙 GitHub](#) ・ [📬 Email](#)
+
