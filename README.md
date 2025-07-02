@@ -57,4 +57,5 @@ My journey started with **C#** and has grown into full-stack engineering, with a
 
 I'm always up for a good conversation—whether it's about building better tools, shaping ideas and startups, making connections, or just a friendly chat.
 
-<a href="#" target="_blank">🔗 LinkedIn</a> &nbsp;•&nbsp; <a href="https://github.com/Yasinvalipoor" target="_blank">🐙 GitHub</a> &nbsp;•&nbsp; <a href="#" target="_blank">📬 Email</a>
+<a href="https://www.linkedin.com/in/yasin-valipour-ivi/" target="_blank">🔗 LinkedIn</a> &nbsp;•&nbsp;
+<a href="https://github.com/Yasinvalipoor" target="_blank">🐙 GitHub</a>
