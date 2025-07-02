@@ -59,4 +59,4 @@ I'm always up for a good conversation—whether it's about building better tools
 
 <a href="https://www.linkedin.com/in/yasin-valipour-ivi/" target="_blank">🔗 LinkedIn</a> &nbsp;•&nbsp;
 <a href="https://github.com/Yasinvalipoor" target="_blank">🐙 GitHub</a> &nbsp;•&nbsp;
-<a href="https://github.com/Yasinvalipoor](https://yasinvalipoor.github.io/WebDesign/MyCV/" target="_blank">📄 My CV</a>
+<a href="https://yasinvalipoor.github.io/WebDesign/MyCV/" target="_blank">📄 My CV</a>
