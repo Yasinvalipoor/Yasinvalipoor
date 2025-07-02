@@ -47,5 +47,6 @@ I'm also the kind of person who gets excited by raw ideas—I've explored multip
 I'm always up for a good conversation—whether it's about building better tools, shaping ideas, or just sharing thoughts.
 
 Reach out and say hi 👇  
+
 [🔗 LinkedIn](#) ・ [🐙 GitHub](#) ・ [📬 Email](#)
 
