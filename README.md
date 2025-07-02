@@ -35,5 +35,3 @@ I'm always up for a good conversation—whether it's about building better tools
 Reach out and say hi 👇  
 
 [🔗 LinkedIn](#) ・ [🐙 GitHub](#) ・ [📬 Email](#)
-
---
